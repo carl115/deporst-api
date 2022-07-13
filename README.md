@@ -4,6 +4,6 @@
 
 The page show the information of the sports, the information is taken of a API
 
-## Muestra
+## Sample
 
 ![](./src/assets/API%20deports.png)
