@@ -1,4 +1,4 @@
-# A page will create with REACT
+# A page create with REACT
 
 ## Description 
 
